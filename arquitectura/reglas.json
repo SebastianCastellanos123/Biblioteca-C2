@@ -1,0 +1,9 @@
+[
+  {
+    "id": "R1",
+    "adr": "ADR-002",
+    "modulo": "prestamos",
+    "no_puede_importar": ["avisos"],
+    "porque": "Si el correo se cae, el prestamo no se puede caer con el. Un socio debe poder llevarse un libro aunque el aviso falle."
+  }
+]
